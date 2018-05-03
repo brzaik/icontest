@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{fill:#585D63;}
+</style>
+<title>system event_template</title>
+<g id="Layer_4">
+	<rect x="11.7" y="12" class="st0" width="1" height="2"/>
+	<rect x="11.7" y="10" class="st0" width="1" height="1"/>
+	<g id="places">
+		<g id="events">
+			<rect id="Rectangle-12" class="st1" width="24" height="24"/>
+			<g id="Rectangle-4-Copy-2">
+				<rect id="path-6" x="7" y="10.2" class="st2" width="9.5" height="1.5"/>
+			</g>
+			<g id="Rectangle-4-Copy-2-2">
+				<rect id="path-6-2" x="7" y="6.7" class="st2" width="5.7" height="1.5"/>
+			</g>
+			<g id="Rectangle-4-Copy-4">
+				<rect id="path-7" x="7" y="13.8" class="st2" width="7.7" height="1.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st2" d="M20.5,2.5h-17c-0.6,0-1,0.4-1,1v15c0,0.6,0.4,1,1,1h6.4l0,0l0.7,1l0.8,1.1c0.2,0.3,0.6,0.4,0.9,0.2
+		c0.1,0,0.1-0.1,0.2-0.2l0.8-1.1l0.7-1l0,0h6.6c0.6,0,1-0.4,1-1v-15C21.5,2.9,21.1,2.5,20.5,2.5z M4.5,17.5v-13h15v13H4.5z"/>
+</g>
+</svg>

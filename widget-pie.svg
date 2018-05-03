@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+</style>
+<title>pie widget widget</title>
+<desc>Created with Sketch.</desc>
+<g id="Widgets">
+	<g id="pie-widget-widget">
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+		<g id="Clip-2">
+		</g>
+		<g>
+			<path class="st1" d="M19.27539,3H4.7254c-0.953,0-1.72498,0.77197-1.72498,1.72498v14.55005
+				C3.00043,20.22803,3.7724,21,4.7254,21h14.54999c0.95203,0,1.72504-0.77197,1.72504-1.72498V4.72498
+				C21.00043,3.77197,20.22742,3,19.27539,3z M19.00043,19h-14V5h14V19z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st1" d="M11.5896,7.89191c-2.50592,0-4.51886,2.013-4.51886,4.51892s2.01294,4.51886,4.51886,4.51886
+		s4.51886-2.01294,4.51886-4.51886H11.5896V7.89191z"/>
+	<path class="st1" d="M12.4112,7.07031v4.51886h4.51892C16.93012,9.08325,14.91718,7.07031,12.4112,7.07031z"/>
+</g>
+</svg>

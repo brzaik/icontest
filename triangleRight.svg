@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-right">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <g id="ic_chevron_left_black_24px">
+                <path d="M15.705,6.705 L15.705,6.705 L15.705,6.705 C15.3156393,6.31563925 14.6843607,6.31563925 14.295,6.705 L9.70710678,11.2928932 L9.70710678,11.2928932 C9.31658249,11.6834175 9.31658249,12.3165825 9.70710678,12.7071068 L14.295,17.295 L14.295,17.295 C14.6843607,17.6843607 15.3156393,17.6843607 15.705,17.295 L15.705,17.295 L15.705,17.295 C16.094485,16.905515 16.0948293,16.2741412 15.7057692,15.8842316 L11.83,12 L15.7057692,8.11576839 L15.7057692,8.11576839 C16.0948293,7.72585884 16.094485,7.09448505 15.705,6.705 Z" id="Shape" fill="#585D63" fill-rule="nonzero" transform="translate(12.705000, 12.000000) rotate(-180.000000) translate(-12.705000, -12.000000) "></path>
+                <polygon id="Shape" points="0.705 0 24.705 0 24.705 24 0.705 24"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

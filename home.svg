@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="places" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <g id="home_template" fill-rule="nonzero" fill="#585D63">
+                <g id="Layer_4" transform="translate(2.502197, 2.305664)">
+                    <g id="Layer_4_1_">
+                        <g id="Group">
+                            <polygon id="Shape" points="3.57917259 11.6522994 3.57917259 18.469771 7.41400036 18.469771 7.41400036 13.4418857 11.3340465 13.4418857 11.3340465 18.469771 15.2540927 18.469771 15.2540927 11.6522994 9.37402344 5.9426669"></polygon>
+                            <polygon id="Shape" points="9.37402344 0.403471236 0.17043679 9.3514027 1.53393111 10.714897 9.37402344 3.13045987 17.2141158 10.714897 18.6628285 9.3514027"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

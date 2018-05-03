@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tree map</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="visualizations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tree-map">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group-23" transform="translate(2.313110, 4.131714)" fill-rule="nonzero" fill="#585D63">
+                <polygon id="Shape-Copy-2" points="8.19807513 6.9221889 8.19807513 0.976806641 0.0555419922 0.976806641 0.0555419922 14.8493652 8.19807513 14.8493652 8.19807513 8.90398298"></polygon>
+                <rect id="Rectangle-path-Copy" x="9.66137695" y="8.37695312" width="3.82140171" height="6.47241211"></rect>
+                <rect id="Rectangle-path-Copy-3" x="14.8963979" y="12.1413874" width="4.86190287" height="2.7079778"></rect>
+                <rect id="Rectangle-path-Copy-4" x="14.8963979" y="8.39474492" width="4.86190287" height="2.7079778"></rect>
+                <rect id="Rectangle-path-Copy-2" x="9.66137695" y="0.976806641" width="10.0969238" height="6.12557691"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+	.st2{fill:#FFFFFF;stroke:#585D63;stroke-width:2;}
+</style>
+<title>analytics</title>
+<desc>Created with Sketch.</desc>
+<g id="Widgets">
+	<g id="analytics">
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+		<g>
+			<path class="st1" d="M19.27502,3H4.72498C3.77197,3,3,3.77197,3,4.72498v14.55005C3,20.22803,3.77197,21,4.72498,21h14.55005
+				C20.22699,21,21,20.22803,21,19.27502V4.72498C21,3.77197,20.22699,3,19.27502,3z M19,19H5V5h14V19z"/>
+		</g>
+		<polygon id="Stroke-3" class="st1" points="19.53098,20 20.64397,18.9944 10.73572,8.9212 3.35603,15.26225 4.31892,16.4124 
+			10.59108,10.99857 		"/>
+		<circle id="Oval-2" class="st2" cx="10.75647" cy="9.8764" r="2.47952"/>
+	</g>
+</g>
+<rect class="st0" width="24" height="24"/>
+</svg>

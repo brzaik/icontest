@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill:#FFFFFF;}
+	.st3{mask:url(#mask-2_1_);fill:#585D63;}
+</style>
+<title>DiagnosticSessions</title>
+<desc>Created with Sketch.</desc>
+<g id="places">
+	<g id="DiagnosticSessions">
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+		<g id="ic_arrow_back_black_24px">
+			<polygon id="Shape" class="st0" points="0,0 24,0 24,24 0,24 			"/>
+		</g>
+		<g id="Page-1" transform="translate(2.000000, 2.000000)">
+			<g id="Clip-2">
+			</g>
+			<defs>
+				
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-0.00033" y="-0.00023" width="19.50382" height="19.60043">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="-0.00033" y="-0.00023" width="19.50382" height="19.60043" id="mask-2_1_">
+				<g class="st1">
+					<polygon id="path-1_1_" class="st2" points="0,19.6 0,0 19.503,0 19.503,19.6 					"/>
+				</g>
+			</mask>
+			<path id="Fill-1" class="st3" d="M4.8031,14.6002v3.49c0,0.834,0.677,1.51,1.511,1.51h9.679c0.834,0,1.51-0.676,1.51-1.51v-12.39
+				c1.394-0.507,2.465-2.136,1.796-3.871c-0.319-0.829-1.031-1.487-1.888-1.72c-1.946-0.528-3.708,0.928-3.708,2.791
+				c0,1.3,0.8,2.3,2,2.8v11.9h-8.8v-3c2.6-0.5,4.8-2.9,4.8-5.8v-5.4c0-1.32-1.08-2.4-2.4-2.4h-0.6v-1h-2v3.9h2v-1h0.5
+				c0.3,0,0.5,0.2,0.5,0.5v5.4c0,2.539-2.398,4.413-4.888,3.774c-1.752-0.449-2.912-2.127-2.912-3.936v-5.238c0-0.3,0.2-0.5,0.5-0.5
+				h0.5v1h2v-3.9h-2v1h-0.5c-1.32,0-2.4,1.08-2.4,2.4v5.4C-0.0969,11.7002,2.0031,14.1002,4.8031,14.6002"/>
+		</g>
+	</g>
+</g>
+</svg>

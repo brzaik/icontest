@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>histogram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="visualizations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="histogram">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <rect id="Rectangle-path" fill="#585D63" fill-rule="nonzero" transform="translate(12.036377, 11.503906) rotate(-270.000000) translate(-12.036377, -11.503906) " x="4.56762695" y="10.5039062" width="14.9375" height="2"></rect>
+            <rect id="Rectangle-path-Copy-4" fill="#585D63" fill-rule="nonzero" transform="translate(8.036377, 12.991577) rotate(-270.000000) translate(-8.036377, -12.991577) " x="2.05529785" y="11.9915771" width="11.9621582" height="2"></rect>
+            <rect id="Rectangle-path-Copy-8" fill="#585D63" fill-rule="nonzero" transform="translate(4.105164, 14.580719) rotate(-270.000000) translate(-4.105164, -14.580719) " x="-0.310760498" y="13.580719" width="8.83184814" height="2"></rect>
+            <rect id="Rectangle-path-Copy-2" fill="#585D63" fill-rule="nonzero" transform="translate(15.872314, 14.238281) rotate(-270.000000) translate(-15.872314, -14.238281) " x="11.1379395" y="13.2382812" width="9.46875" height="2"></rect>
+            <rect id="Rectangle-path-Copy-6" fill="#585D63" fill-rule="nonzero" transform="translate(19.734375, 16.105469) rotate(-270.000000) translate(-19.734375, -16.105469) " x="16.8671875" y="15.1054688" width="5.734375" height="2"></rect>
+        </g>
+    </g>
+</svg>

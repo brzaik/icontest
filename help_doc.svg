@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+</style>
+<title>help</title>
+<desc>Created with Sketch.</desc>
+<g id="actions">
+	<g id="help">
+		<g id="more-horiz">
+			<polygon id="Shape" class="st0" points="0,0 24,0 24,24 0,24 			"/>
+		</g>
+		<g id="ic_x5F_help_x5F_outline_x5F_black_x5F_24px-_x28_2_x29_">
+			<polygon id="Shape_2_" class="st0" points="0,0 24,0 24,24 0,24 			"/>
+			<path id="Shape_3_" class="st1" d="M11,18h2v-2h-2V18z M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z
+				 M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8S16.41,20,12,20z M12,6c-2.21,0-4,1.79-4,4h2c0-1.1,0.9-2,2-2s2,0.9,2,2
+				c0,2-3,1.75-3,5h2c0-2.25,3-2.5,3-5C16,7.79,14.21,6,12,6z"/>
+		</g>
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+	</g>
+</g>
+</svg>

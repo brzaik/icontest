@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>jobs manager</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="places" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jobs-manager">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <g id="ic_format_list_bulleted_black_24px">
+                <path d="M2,10.5 C1.17,10.5 0.5,11.17 0.5,12 C0.5,12.83 1.17,13.5 2,13.5 C2.83,13.5 3.5,12.83 3.5,12 C3.5,11.17 2.83,10.5 2,10.5 Z M2,4.5 C1.17,4.5 0.5,5.17 0.5,6 C0.5,6.83 1.17,7.5 2,7.5 C2.83,7.5 3.5,6.83 3.5,6 C3.5,5.17 2.83,4.5 2,4.5 Z M2,16.5 C1.17,16.5 0.5,17.18 0.5,18 C0.5,18.82 1.18,19.5 2,19.5 C2.82,19.5 3.5,18.82 3.5,18 C3.5,17.18 2.83,16.5 2,16.5 Z M5,19 L10.0463867,19 L10.0463867,17 L5,17 L5,19 Z M5,13 L19,13 L19,11 L5,11 L5,13 Z M5,5 L5,7 L19,7 L19,5 L5,5 Z" id="Shape" fill="#585D63" fill-rule="nonzero"></path>
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+            </g>
+            <polygon id="Path" fill="#585D63" points="22.5 15.5 24 17 17.01 24 12.5 19.5 14 18 17.01 21"></polygon>
+        </g>
+    </g>
+</svg>

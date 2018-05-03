@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#585D63;}
+	.st1{fill:none;}
+</style>
+<title>compact view</title>
+<desc>Created with Sketch.</desc>
+<g id="actions">
+	<g id="compact-view">
+		<g id="Page-1" transform="translate(2.000000, 2.000000)">
+			<g id="Clip-2">
+			</g>
+		</g>
+		<g id="compact_view_template" transform="translate(3.000000, 5.000000)">
+			<rect id="Rectangle-path" x="5" y="1" class="st0" width="13" height="2"/>
+			<circle id="Oval" class="st0" cx="1.5" cy="2" r="1.5"/>
+			<rect id="Rectangle-path_1_" y="6" class="st0" width="13" height="2"/>
+			<circle id="Oval_1_" class="st0" cx="16.5" cy="7" r="1.5"/>
+			<rect id="Rectangle-path_2_" x="5" y="11" class="st0" width="13" height="2"/>
+			<circle id="Oval_2_" class="st0" cx="1.5" cy="12" r="1.5"/>
+		</g>
+		<rect id="Rectangle-12" class="st1" width="24" height="24"/>
+	</g>
+</g>
+<rect class="st1" width="24" height="24"/>
+</svg>

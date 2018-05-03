@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+</style>
+<title>metric widget</title>
+<desc>Created with Sketch.</desc>
+<g id="Widgets">
+	<g id="metric-widget">
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+		<g id="Page-1" transform="translate(3.000000, 3.000000)">
+			<g id="Clip-2">
+			</g>
+			<g>
+				<path class="st1" d="M16.27539,0H1.7254c-0.953,0-1.72498,0.77197-1.72498,1.72498v14.55005
+					C0.00043,17.22803,0.7724,18,1.7254,18h14.54999c0.95203,0,1.72504-0.77197,1.72504-1.72498V1.72498
+					C18.00043,0.77197,17.22742,0,16.27539,0z M16.00043,16h-14V2h14V16z"/>
+			</g>
+			<path id="Fill-4" class="st1" d="M8.4619,7.9956l-0.336,1.653h1.597l0.336-1.653H8.4619z M5.4079,7.9956v-1.373h1.933
+				l0.561-2.703h1.4l-0.56,2.703h1.597l0.546-2.703h1.401l-0.546,2.703h1.597v1.373h-1.878l-0.336,1.653h1.653v1.373h-1.932
+				l-0.561,2.703h-1.401l0.56-2.703h-1.596l-0.547,2.703h-1.4l0.546-2.703h-1.597v-1.373h1.877l0.336-1.653H5.4079z"/>
+		</g>
+	</g>
+</g>
+</svg>

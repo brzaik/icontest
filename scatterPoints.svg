@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>scatter points</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="visualizations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scatter-points">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Rectangle-8" fill="#585D63" points="5.44418556 12.244392 7.64178909 14.3279435 5.44418556 16.411495 3.24658203 14.3279435"></polygon>
+            <polygon id="Rectangle-8-Copy-4" fill="#585D63" points="11.2113129 10.1924653 13.4089164 12.2760168 11.2113129 14.3595683 9.01370937 12.2760168"></polygon>
+            <polygon id="Rectangle-8-Copy-5" fill="#585D63" points="15.9636599 14.7501501 18.1612634 16.8337016 15.9636599 18.917253 13.7660563 16.8337016"></polygon>
+            <polygon id="Rectangle-8-Copy" fill="#585D63" points="5.44418556 6.02536238 7.64178909 8.10891385 5.44418556 10.1924653 3.24658203 8.10891385"></polygon>
+            <polygon id="Rectangle-8-Copy-2" fill="#585D63" points="12.7684778 4.64646767 14.9660814 6.73001914 12.7684778 8.81357062 10.5708743 6.73001914"></polygon>
+            <polygon id="Rectangle-8-Copy-3" fill="#585D63" points="18.5558144 9.15508418 20.753418 11.2386357 18.5558144 13.3221871 16.3582109 11.2386357"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_2_);fill:#585D63;}
+	.st3{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st4{mask:url(#mask-4_1_);fill:#585D63;}
+	.st5{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st6{mask:url(#mask-6_1_);fill:#585D63;}
+	.st7{fill:none;}
+</style>
+<title>presenter@4x</title>
+<desc>Created with Sketch.</desc>
+<g id="objects">
+	<g id="presenter">
+		<g id="Page-1" transform="translate(2.000000, 2.000000)">
+			<g id="Group-3" transform="translate(4.000000, 0.540000)">
+				<g id="Clip-2">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-6.026" y="-5.301" width="28.375" height="26.07">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="-6.026" y="-5.301" width="28.375" height="26.07" id="mask-2_2_">
+					<g class="st0">
+						<path id="path-1_2_" class="st1" d="M2.135,0.744c-1.168,0-2.116,0.95-2.116,2.116v1.663c0.697,0.155,1.323,0.503,1.813,0.989
+							V2.86c0-0.163,0.138-0.302,0.303-0.302h12.052c0.164,0,0.303,0.139,0.303,0.302v9.749c0,0.164-0.139,0.302-0.303,0.302H8.611
+							c-0.77,0.532-1.9,1.23-3.224,1.813h8.8c1.167,0,2.116-0.949,2.116-2.115V2.86c0-1.166-0.949-2.116-2.116-2.116H2.135z"/>
+					</g>
+				</mask>
+				<polyline id="Fill-1_1_" class="st2" points="-6.026,-5.301 -6.026,20.769 22.349,20.769 22.349,-5.301 				"/>
+			</g>
+			<g id="Group-6" transform="translate(0.000000, 5.540000)">
+				<g id="Clip-5">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-5.097" y="-5.163" width="16.625" height="16.625">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="-5.097" y="-5.163" width="16.625" height="16.625" id="mask-4_1_">
+					<g class="st3">
+						<path id="path-3_1_" class="st1" d="M0.949,3.149c0,1.252,1.015,2.267,2.267,2.267s2.267-1.015,2.267-2.267
+							S4.468,0.882,3.216,0.882S0.949,1.897,0.949,3.149z"/>
+					</g>
+				</mask>
+				<polygon id="Fill-4" class="st4" points="-5.097,11.462 11.528,11.462 11.528,-5.163 -5.097,-5.163 				"/>
+			</g>
+			<g id="Group-9" transform="translate(0.000000, 9.540000)">
+				<g id="Clip-8">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="-6.011" y="-5.985" width="25.1" height="22.775">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="-6.011" y="-5.985" width="25.1" height="22.775" id="mask-6_1_">
+					<g class="st5">
+						<path id="path-5_1_" class="st1" d="M3.78,2.877C3.487,2.773,3.176,2.706,2.849,2.706c-1.553,0-2.815,1.262-2.815,2.815v5.224
+							h5.631V5.521c0-0.06,0.003-0.174,0-0.174c3.892-0.395,7.212-3.334,7.377-3.483L11.433,0.06
+							C11.393,0.096,7.37,3.607,3.78,2.877z"/>
+					</g>
+				</mask>
+				<polygon id="Fill-7" class="st6" points="-6.011,16.79 19.089,16.79 19.089,-5.985 -6.011,-5.985 				"/>
+			</g>
+		</g>
+		<polyline id="Rectangle-12_1_" class="st7" points="24,24 0,24 0,0 		"/>
+	</g>
+</g>
+<rect class="st7" width="24" height="24"/>
+</svg>

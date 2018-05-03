@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);fill:#585D63;}
+	.st3{fill:none;}
+</style>
+<title>clear console</title>
+<desc>Created with Sketch.</desc>
+<g id="actions">
+	<g id="clear-console">
+		<g id="Page-1" transform="translate(2.000000, 2.000000)">
+			<g id="Clip-2">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20" id="mask-2_1_">
+				<g class="st0">
+					<polygon id="path-1_1_" class="st1" points="0,0 0,20 20,20 20,0 					"/>
+				</g>
+			</mask>
+			<path id="Fill-1" class="st2" d="M16.3,14.9L5.1,3.7C6.5,2.6,8.1,2,10,2c4.4,0,8,3.6,8,8C18,11.8,17.4,13.5,16.3,14.9 M10,18
+				c-4.4,0-8-3.6-8-8c0-1.8,0.6-3.5,1.7-4.9l11.2,11.2C13.5,17.4,11.8,18,10,18 M10,0C4.5,0,0,4.5,0,10c0,5.5,4.5,10,10,10
+				s10-4.5,10-10C20,4.5,15.5,0,10,0"/>
+		</g>
+		<rect id="Rectangle-12" class="st3" width="24" height="24"/>
+	</g>
+</g>
+<rect class="st3" width="24" height="24"/>
+</svg>

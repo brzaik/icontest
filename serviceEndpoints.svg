@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>service end point</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="12.00015 0.5 24 0.5 24 16.5 0.0003 16.5 0.0003 0.5"></polygon>
+    </defs>
+    <g id="places" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="service-end-point">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <g id="policies_template">
+                <g id="Layer_1"></g>
+            </g>
+            <g id="Page-1" transform="translate(0.000000, 1.500000)">
+                <g id="Group-3" transform="translate(0.000000, 0.500000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                </g>
+            </g>
+            <g id="serviceAvailability_template" transform="translate(-0.630737, -1.000000)">
+                <g id="Layer_1"></g>
+            </g>
+            <path d="M20.0526173,20.00806 C21.1011373,20.00806 22.0021973,19.11206 22.0021973,18.04261 L22.0021973,5.964 C22.0021973,4.91548 21.2521373,4.00001 20.0526173,4.00001 L17.0021973,4.00001 L17.0021973,5.95967 L19.3723173,5.95967 C19.7128973,5.95967 20.0006773,6.24745 20.0006773,6.58803 L20.0006773,17.42147 C20.0006773,17.76205 19.7128973,18.04983 19.3723173,18.04983 L17.0021973,18.04983 L17.0021973,20" id="Shape" fill="#585D63"></path>
+            <path d="M7.04345703,20 L7.04345703,18.0498 L4.67962703,18.0498 C4.33904703,18.0498 4.05126703,17.76202 4.05126703,17.42144 L4.05126703,6.588 C4.05126703,6.24742 4.33904703,5.95964 4.67962703,5.95964 L7.04345703,5.95964 L7.04345703,4 L4.03100703,4 C2.91961703,4 2.06707703,4.89453 2.06707703,5.96399 L2.06707703,18.0426 C2.06707703,19.07007 2.98248703,20.00805 4.03100703,20.00805" id="Shape" fill="#585D63"></path>
+            <circle id="Oval-4" fill="#585D63" cx="12" cy="12" r="2.96173096"></circle>
+        </g>
+    </g>
+</svg>

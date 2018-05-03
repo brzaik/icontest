@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+</style>
+<title>symbolicate</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<rect x="7" y="15" class="st0" width="2" height="2"/>
+	<path class="st0" d="M13,4H4v9h2h3v-1H5v-1h4.00494c0.01929-0.26892,0.09735-0.76678,0.40143-1.18762
+		c0.08319-0.11194,0.18005-0.21234,0.28339-0.30493l0.18579-0.13708C10.19537,9.14404,10.57587,9,11,9h2V4z M8,10H5V9h3V10z M10,8H5
+		V7h5V8z M11,6H5V5h6V6z"/>
+	<path class="st1" d="M20,9h-5V4c0-1.10498-0.89502-2-2-2H4C2.89502,2,2,2.89502,2,4v9c0,1.10498,0.89502,2,2,2h1v2l2,2h2v1
+		c0,1.10498,0.89502,2,2,2h9c1.10498,0,2-0.89502,2-2v-9C22,9.89502,21.10498,9,20,9z M9,17H7v-2h2V17z M9.87555,9.37036
+		L9.68976,9.50745c-0.10333,0.09259-0.2002,0.19299-0.28339,0.30493C9.10229,10.23322,9.02423,10.73108,9.00494,11H5v1h4v1H6H4V4h9
+		v5h-2C10.57587,9,10.19537,9.14404,9.87555,9.37036z M17.44824,19.4082l-0.54199-1.61133h-2.8252l-0.53711,1.61133h-1.71338
+		l2.91064-7.8208h1.49316l2.92773,7.8208H17.44824z"/>
+	<polygon class="st1" points="14.51562,16.49219 16.4707,16.49219 15.48828,13.56445 	"/>
+	<rect x="5" y="5" class="st1" width="6" height="1"/>
+	<rect x="5" y="7" class="st1" width="5" height="1"/>
+	<rect x="5" y="9" class="st1" width="3" height="1"/>
+</g>
+<rect class="st0" width="24" height="24"/>
+</svg>

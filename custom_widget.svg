@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+	.st2{fill:#757575;}
+</style>
+<title>custom widget</title>
+<desc>Created with Sketch.</desc>
+<g id="visualizations">
+	<g id="custom-widget">
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+		<g id="custom_widget" transform="translate(-1.000000, -1.000000)">
+			<g id="Layer_4" transform="translate(10.000000, 4.000000)">
+				<path id="Shape" class="st1" d="M0,10.29204V13h2.70796l7.6731-7.6731L7.6731,2.61895L0,10.29204z M12.78878,2.91918
+					c0.28163-0.28163,0.28163-0.73656,0-1.01819l-1.68977-1.68977c-0.28163-0.28163-0.73656-0.28163-1.01819,0L8.75934,1.5327
+					l2.70796,2.70796L12.78878,2.91918z"/>
+			</g>
+			<g id="Layer_5" transform="translate(4.000000, 2.000000)">
+				<path id="Shape_1_" class="st2" d="M16,18H2V4l9.70372-0.01622l2-2L2,2C0.90002,2,0,2.89996,0,4v14c0,1.09998,0.90002,2,2,2h14
+					c1.09998,0,2-0.90002,2-2V8.30397l-2,2.02936V18z"/>
+				<path id="Shape_2_" class="st0" d="M15.71458,0.28542L11,5"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

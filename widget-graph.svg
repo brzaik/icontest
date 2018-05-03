@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#585D63;}
+	.st1{fill:none;}
+</style>
+<title>graph widget</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" transform="translate(3.000000, 3.000000)">
+	<g id="Clip-4">
+	</g>
+	<g id="Clip-7">
+	</g>
+</g>
+<g>
+	<path class="st0" d="M19.27539,3H4.7254c-0.953,0-1.72498,0.77197-1.72498,1.72498v14.55005C3.00043,20.22803,3.7724,21,4.7254,21
+		h14.54999c0.95203,0,1.72504-0.77197,1.72504-1.72498V4.72498C21.00043,3.77197,20.22742,3,19.27539,3z M19.00043,19h-14V5h14V19z"
+		/>
+	<rect x="8" y="13" class="st0" width="2" height="4"/>
+	<rect x="11" y="7" class="st0" width="2" height="10"/>
+	<rect x="14" y="11" class="st0" width="2" height="6"/>
+</g>
+<rect class="st1" width="24" height="24"/>
+</svg>

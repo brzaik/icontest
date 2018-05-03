@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+</style>
+<title>text widget</title>
+<desc>Created with Sketch.</desc>
+<g id="Widgets">
+	<g id="text-widget">
+		<rect id="Rectangle-12" class="st0" width="24" height="24"/>
+		<g>
+			<path class="st1" d="M19.5,3h-15C3.67499,3,3,3.67499,3,4.5v15C3,20.32501,3.67499,21,4.5,21h15c0.82501,0,1.5-0.67499,1.5-1.5
+				v-15C21,3.67499,20.32501,3,19.5,3z M19,19H5V5h14V19z"/>
+		</g>
+		<polygon id="T" class="st1" points="9.534,15.0947 11.016,15.0947 11.016,8.8547 9.768,8.8547 9.768,10.4277 8.338,10.4277 
+			8.338,7.4247 15.462,7.4247 15.462,10.4277 14.032,10.4277 14.032,8.8547 12.797,8.8547 12.797,15.0947 14.266,15.0947 
+			14.266,16.5247 9.534,16.5247 		"/>
+	</g>
+</g>
+</svg>

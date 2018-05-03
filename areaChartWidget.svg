@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>area chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="visualizations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="area-chart">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <polyline id="Shape" fill="#585D63" fill-rule="nonzero" points="20.7347442 18.7157635 3.26525581 18.7157635 3.26525581 13.1134029 9.12723969 7.89984964 15.0862763 10.4977897 20.7347442 5.28423648 20.7347442 18.7157635"></polyline>
+        </g>
+    </g>
+</svg>

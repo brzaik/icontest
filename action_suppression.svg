@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>action suspended</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="places" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="action-suspended">
+            <rect id="Rectangle-12" x="0" y="0" width="24" height="24"></rect>
+            <g id="action_suppression_template">
+                <g id="Layer_1">
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    <g id="Group" transform="translate(3.000000, 2.000000)" fill="#585D63">
+                        <polygon id="Shape" points="14 8 10 8 14 0 5.95834 0 4.94809 3.2926 12.39697 10.74805"></polygon>
+                        <polygon id="Shape" points="1.55377 2.67169 0.30371 3.91406 3.69577 7.32529 2.54169 11 7 11 7 20 10.43823 14.1059 14.11719 17.80566 15.36145 16.56909"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

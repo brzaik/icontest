@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#585D63;}
+</style>
+<title>chevron left</title>
+<desc>Created with Sketch.</desc>
+<g id="navigation">
+	<g id="chevron-left">
+		<rect id="Rectangle-12" x="0.3525" y="0.3525" class="st0" width="24" height="24"/>
+		<g id="ic_chevron_left_black_24px">
+			<path id="Shape" class="st1" d="M7.0575,9.6475L7.0575,9.6475L7.0575,9.6475c-0.38936,0.38936-0.38936,1.02064,0,1.41
+				l4.58789,4.58789l0,0c0.39052,0.39052,1.02369,0.39052,1.41421,0l4.58789-4.58789l0,0c0.38936-0.38936,0.38936-1.02064,0-1.41
+				l0,0l0,0c-0.38948-0.38949-1.02086-0.38983-1.41077-0.00077L12.3525,13.5225L8.46827,9.64673l0,0
+				C8.07836,9.25767,7.44699,9.25801,7.0575,9.6475z"/>
+			<polygon id="Shape_1_" class="st0" points="0.3525,23.6475 0.3525,-0.3525 24.3525,-0.3525 24.3525,23.6475 			"/>
+		</g>
+	</g>
+</g>
+</svg>
